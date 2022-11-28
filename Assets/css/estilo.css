@@ -14,32 +14,32 @@
 .body__section__red {
   background-color: rgb(185, 11, 11);
   width: 100rem;
-  height: 5rem;
+  height: 6rem;
 }
 .body__section__purple {
   background-color: rgb(136, 11, 185);
   width: 100rem;
-  height: 5rem;
+  height: 6rem;
 }
 .body__section__yellow {
   background-color: rgb(238, 219, 52);
   width: 100rem;
-  height: 5rem;
+  height: 6rem;
 }
 .body__section__pink {
   background-color: rgb(231, 23, 138);
   width: 100rem;
-  height: 5rem;
+  height: 6rem;
 }
 .body__section__green {
-  background-color: rgb(136, 11, 185);
+  background-color: rgb(11, 185, 83);
   width: 100rem;
-  height: 5rem;
+  height: 6rem;
 }
 .body__section__blue {
   background-color: rgb(43, 11, 185);
   width: 100rem;
-  height: 5rem;
+  height: 6rem;
 }
 
 /* Tamaño Mediano*/
@@ -48,7 +48,7 @@
     margin-right: 0%;
     padding-right: 0%;
     display: flex;
-    width: 43rem;
+    width: 57rem;
   }
 }
 /* Tamaño Grande*/
